@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    font-family: Georama;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+h1 {
+    font-size: 19px;
+    color: #C1C1C1;
+}
+
+.nav-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 8px;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+hr {
+    color:#FFFFFF;
+    border: 0px, 0px, 2px, 0px;
+}
